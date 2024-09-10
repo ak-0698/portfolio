@@ -21,12 +21,8 @@ Testing and Other Tools:	Postman, Selenium, Jira.
 IDES:				              Eclipse, VS Code.
 
 ## Education
-University of North Texas Denton, TX
-Master of Science | Computer Science	                                                                                                                                    Aug 2021 - May 2023
-
-Vasireddy Venkatadri Institute of Technology Andhra Pradesh, India
-Bachelor’s in Information Technology                                                                                                                                         Aug 2016 – Sep 2020
-
+- M.S., Computer Science | University of North Texas | Denton,TX(Aug 2021 - May 2023)  
+- B.Tech.,Information Technology | Vasireddy Venkatadri Institute of Technology | Andhra Pradesh, India (Aug 2016 – Sep 2020)
 
 
 ## Professional Experience  
