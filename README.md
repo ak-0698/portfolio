@@ -49,9 +49,9 @@ Bachelor’s in Information Technology                                  Aug 2016
 - Designing I-Permit system included the process of requesting the permit by business entities and handling these requests by a 3-tier environment. Different APIs are used to get the request information and payment processing.
 - Contributed by identifying different entities during the design process, laying out the basic use case diagram and developing the payment handling code.
 ### WATIR (WEB APPLICATION TESTING IN RUBY)
--Using sample code and test cases, explored the features of WATIR. 
--WATIR with other testing tools and explored the multi-browser support functionality. 
--IDE used is Ruby Mine and language is Ruby.
+- Using sample code and test cases, explored the features of WATIR. 
+- WATIR with other testing tools and explored the multi-browser support functionality. 
+- IDE used is Ruby Mine and language is Ruby.
 ### License Plate Recognition
 - An application of computer vision and image processing technology that takes video of vehicles.
 - The vehicle frames as input image and by extracting their number plate from whole vehicle image it displays the number plate information into text.
