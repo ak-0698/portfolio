@@ -13,9 +13,9 @@ IDES:				Eclipse, VS Code.
 
 ## Education
 University of North Texas Denton, TX
-Master of Science | Computer Science	                                                                                                                                    Aug 2021 - May 2023
+Master of Science | Computer Science	                                                                                                                                    @Aug 2021 - May 2023
 Vasireddy Venkatadri Institute of Technology Andhra Pradesh, India
-Bachelor’s in Information Technology                                                                                                                                         Aug 2016 – Sep 2020
+Bachelor’s in Information Technology                                                                                                                                        @ Aug 2016 – Sep 2020
 
 
 ## Professional Experience  
