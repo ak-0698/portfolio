@@ -20,7 +20,7 @@ Bachelor’s in Information Technology                                  Aug 2016
 
 
 ## Professional Experience  
-### Uber, TX                                                          Aug 2023 - Current
+### Uber, TX                                                         @ Aug 2023 - Current
 ### Software Engineer
 -	Developed and maintained a critical ride-sharing platform using Python and Flask, enhancing features such as user authentication, data visualization, and real-time updates to optimize user experience and backend operations.
 -	Architected and launched over 15 RESTful APIs for Uber’s logistics and dispatch systems using Flask, incorporating advanced practices for error handling, rate limiting, and secure data validation to facilitate robust client-server interactions.
