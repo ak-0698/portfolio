@@ -1,6 +1,6 @@
 # SOFTWARE ENGINEER
 
-### Technical Skills
+## Technical Skills
 Programming Skills:		Python, SQL, Java.
 Databases:			MySQL, MongoDB, Oracle, PostgreSQL.
 Frameworks:			Django, Flask, React JS, Node JS, Angular, Express JS, Spring Boot.
@@ -11,15 +11,15 @@ Version Control:		Git, GitHub.
 Testing and Other Tools:	Postman, Selenium, Jira.
 IDES:				Eclipse, VS Code.
 
-### Education
+## Education
 University of North Texas Denton, TX                                   Aug 2021 - May 2023
 Master of Science | Computer Science	                                                                                                                                    
 Vasireddy Venkatadri Institute of Technology Andhra Pradesh, India     Aug 2016 – Sep 2020
 Bachelor’s in Information Technology
 
-### Professional Experience  
-## Uber, TX 												       Aug 2023 - Current
-## Software Engineer
+## Professional Experience  
+### Uber, TX 												                                   Aug 2023 - Current
+### Software Engineer
 •	Developed and maintained a critical ride-sharing platform using Python and Flask, enhancing features such as user authentication, data visualization, and real-time updates to optimize user experience and backend operations.
 •	Architected and launched over 15 RESTful APIs for Uber’s logistics and dispatch systems using Flask, incorporating advanced practices for error handling, rate limiting, and secure data validation to facilitate robust client-server interactions.
 •	Spearheaded the optimization of MongoDB and PostgreSQL databases for Uber’s dynamic pricing model, employing indexing strategies and advanced query optimizations to support rapid scalability and high availability during peak traffic times.
