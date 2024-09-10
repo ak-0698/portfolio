@@ -12,7 +12,7 @@
 #### IDES:				              Eclipse, VS Code.
 
 ## Education
-Master of Science | Computer Science
+Master of Science Computer Science
 University of North Texas at Denton, TX (Aug 2021 - May 2023)
 
 Bachelor’s in Information Technology                          
