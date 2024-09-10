@@ -1,21 +1,22 @@
 # SOFTWARE ENGINEER
 
 ## Technical Skills
-Programming Skills:		Python, SQL, Java.
-Databases:			MySQL, MongoDB, Oracle, PostgreSQL.
-Frameworks:			Django, Flask, React JS, Node JS, Angular, Express JS, Spring Boot.
-Web Technologies:		HTML, CSS, Java Script, Bootstrap, jQuery, XML, Restful API. 
-Cloud Technologies:		AWS (EC2, S3, Lambda, RDS, Glue, Redshift, Cloud Watch). 
-Methodologies:			SDLC, Agile, Waterfall.
-Version Control:		Git, GitHub.
+Programming Skills:	    	Python, SQL, Java.
+Databases:			          MySQL, MongoDB, Oracle, PostgreSQL.
+Frameworks:			          Django, Flask, React JS, Node JS, Angular, Express JS, Spring Boot.
+Web Technologies:		      HTML, CSS, Java Script, Bootstrap, jQuery, XML, Restful API. 
+Cloud Technologies:		    AWS (EC2, S3, Lambda, RDS, Glue, Redshift, Cloud Watch). 
+Methodologies:			      SDLC, Agile, Waterfall.
+Version Control:		      Git, GitHub.
 Testing and Other Tools:	Postman, Selenium, Jira.
-IDES:				Eclipse, VS Code.
+IDES:				              Eclipse, VS Code.
 
 ## Education
 University of North Texas Denton, TX
-Master of Science | Computer Science	                                                                                                                                    @Aug 2021 - May 2023
+Master of Science | Computer Science	                                                                                                                                    Aug 2021 - May 2023
+
 Vasireddy Venkatadri Institute of Technology Andhra Pradesh, India
-Bachelor’s in Information Technology                                                                                                                                        @ Aug 2016 – Sep 2020
+Bachelor’s in Information Technology                                                                                                                                         Aug 2016 – Sep 2020
 
 
 ## Professional Experience  
